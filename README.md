@@ -73,3 +73,15 @@ For the time being, I program as a hobby but I'm open to every opportunity.</p>
 <p align="center"><a target="_blank" href="https://www.instagram.com/martin_baus" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
 </p>
+
+
+<img src="https://raw.githubusercontent.com/mbaus24/mbaus24/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/21xdlmuuwlegiin23yrqpwidq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21xdlmuuwlegiin23yrqpwidq&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
