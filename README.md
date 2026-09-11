@@ -85,7 +85,10 @@ For the time being, I program as a hobby but I'm open to every opportunity.</p>
 
 <div align="center">
   <a href="https://open.spotify.com/user/21xdlmuuwlegiin23yrqpwidq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21xdlmuuwlegiin23yrqpwidq&count=5" alt="Spotify recently played"  />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=21xdlmuuwlegiin23yrqpwidq&count=5&theme=dark">
+      <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=21xdlmuuwlegiin23yrqpwidq&count=5&theme=light" alt="Spotify recently played" />
+    </picture>
   </a>
 </div>
 
